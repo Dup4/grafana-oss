@@ -1,7 +1,7 @@
-# oss
+# grafana oss
 
-[![Test](https://github.com/Dup4/oss/actions/workflows/test.yml/badge.svg)](https://github.com/Dup4/oss/actions/workflows/test.yml)
-[![Lint](https://github.com/Dup4/oss/actions/workflows/lint.yml/badge.svg)](https://github.com/Dup4/oss/actions/workflows/lint.yml)
+[![Test](https://github.com/Dup4/grafana-oss/actions/workflows/test.yml/badge.svg)](https://github.com/Dup4/grafana-oss/actions/workflows/test.yml)
+[![Lint](https://github.com/Dup4/grafana-oss/actions/workflows/lint.yml/badge.svg)](https://github.com/Dup4/grafana-oss/actions/workflows/lint.yml)
 
 ## License
 
